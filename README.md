@@ -22,4 +22,52 @@
 
 <details>
 
+#### Personal Open Source Repo
+
+<table #personal>
+  <thead>
+    <th width=50%>Name</th>
+    <th width=50%>Description</th>
+  </thead>
+  <tr>
+    <td><a href="https://github.com/Zhengqbbb/cz-git/tree/main/packages/cz-git">cz-git</a></td>
+    <td>
+      A more engineered, lightweight, customizable, standard output format <b>Commitizen Adapter</b>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli">czg</a></td>
+    <td>
+      Interactive <b>Commitizen CLI</b> that generate standardized commit messages
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Zhengqbbb/zhengqbbb.github.io/tree/main/packages/clipboard">vuepress-plugin-clipboard</a></td>
+    <td>
+      A Vuepress v2 plugin to generate <b>code copy button</b> | code clipboard
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Zhengqbbb/zhengqbbb.github.io/tree/main/packages/china-search-console">vuepress-plugin-china-search-console</a></td>
+    <td>
+      A Vuepress v2 plugin to enhance vuepress page search SEO For the China <b>search console</b>
+    </td>
+  </tr>
+</table>
+
+#### As Contributors For Open Source Repo
+
+<table #contributor>
+  <thead>
+    <th width=50%>Name</th>
+    <th width=50%>Description</th>
+  </thead>
+  <tr>
+    <td><a href="https://github.com/Renovamen/vuepress-theme-gungnir">vuepress-theme-gungnir</a></td>
+    <td>
+      A blog theme for VuePress 2.0
+    </td>
+  </tr>
+</table>
+
 </details>
