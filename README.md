@@ -14,20 +14,12 @@
 - <img src="./icons/article.svg" style="height: 1rem"> [Blog](https://www.qbenben.com/)
 - <img src="./icons/email.svg" style="height: 1rem"> [Email](mailto:zhengqbbb@gamil.com)
 
+#### My Dream
+- <img src="./icons/terminal.svg" style="height: 1rem"> `if [ -n 🤯 ]; then 🤯 >/dev/null; fi`        
+- <img src="./icons/node.svg" style="height: 1rem"> `while(😴){ 💰++; }`
+
 #### Projects
 
 <details>
 
 </details>
-
-<br/>
-
-#### My Dream
-- <img src="./icons/terminal.svg" style="height: 1rem"> `if [ -n 🤯 ]; then 🤯 >/dev/null; fi`        
-- <img src="./icons/node.svg" style="height: 1rem"> `while(😴){ 💰++; }`
-
-☁️&nbsp;☁️&nbsp;☁️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌖 &nbsp;&nbsp;☁️<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☁️&nbsp;&nbsp;&nbsp; ☁️ &nbsp;&nbsp;&nbsp; 🚀 &nbsp; &nbsp;&nbsp;&nbsp;☁️ <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☁️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*
