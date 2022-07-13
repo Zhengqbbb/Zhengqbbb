@@ -1,32 +1,32 @@
-<img alt="qbenben-logo" width="100" src="https://user-images.githubusercontent.com/40693636/147798845-84d79751-28d3-4b88-bc4a-a24d33f914ec.png"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhengqbbb&show_icons=true&theme=slateorange&count_private=true&hide_border=true" height="170">
 
-### Hi there 👋
+### 👋 Hi there, I'm Q.Ben. <sup>(or QB)</sup>
 
-**qbenben's Blog**: [qbenben.com](https://www.qbenben.com)
-But there is no time to update.
+- Development Engineer
+- Team member of <b>X-Cmd</b>
 
-**Links**: 
+#### Find me
 
-[![github](https://img.shields.io/badge/Github-Zhengqbbb-lightgrey?style=social&logo=github)](https://github.com/Zhengqbbb/)
-[![npm](https://img.shields.io/badge/NPM-zhengqbbb-lightgrey?style=social&logo=npm)](https://www.npmjs.com/~zhengqbbb)
-[![instagram](https://img.shields.io/badge/Instagram-qbqiubin-lightgrey?style=social&logo=instagram)](https://www.instagram.com/qbqiubin/)
-[![twitter](https://img.shields.io/badge/Twitter-zhengqbbb-lightgrey?style=social&logo=twitter)](https://twitter.com/zhengqbbb)
-[![email](https://img.shields.io/badge/Email-zhengqbbb-lightgrey?style=social&logo=gmail)](mailto:zhengqbbb@gamil.com)
+- <img src="./icons/twitter.svg" style="height: 1rem"> [Twitter](https://twitter.com/zhengqbbb)
+- <img src="./icons/instagram.svg" style="height: 1rem"> [Instagram](https://www.instagram.com/qbqiubin/)
+- <img src="./icons/discord.svg" style="height: 1rem"> [Discord](https://discord.com/users/902369403818094593)
+- <img src="./icons/npm.svg" style="height: 1rem"> [NPM](https://www.npmjs.com/~zhengqbbb)
+- <img src="./icons/article.svg" style="height: 1rem"> [Blog](https://www.qbenben.com/)
+- <img src="./icons/email.svg" style="height: 1rem"> [Email](mailto:zhengqbbb@gamil.com)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=zhengqbbb&show_icons=true&theme=slateorange&count_private=true&hide_border=true" height="170">
-  
-</p>
+#### Projects
 
+<details>
 
-- ✨  I'm focusing on the development that I like.
-- 🏢  I'm a member of secret team.
-- 🌱  I's currently focusing on the following tasks.
-  - 🧐 Developing A shell tool.
-  - 🧐 Developing A shell tool's doc.
-- ⚡  Fun fact: Everything is just begin. 
-- 😎  X is everthing. Enjoy~
+</details>
+
 <br/>
+
+My Dream:   
+
+  `if [ -n 🤯 ]; then 🤯 >/dev/null; fi`        
+  `while(😴){ 💰++; }`
+
 Talking to the Moon
 
 ☁️&nbsp;☁️&nbsp;☁️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌖 &nbsp;&nbsp;☁️<br/>
