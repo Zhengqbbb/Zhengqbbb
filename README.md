@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhengqbbb&show_icons=true&theme=github_dark&count_private=true" height="170">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhengqbbb&show_icons=true&theme=github_dark&count_private=true&hide_border=true" height="170">
 
 ### 👋 Hi there, I'm Q.Ben. <sup>(or QB)</sup>
 
