@@ -22,12 +22,9 @@
 
 <br/>
 
-My Dream:   
-
-  `if [ -n 🤯 ]; then 🤯 >/dev/null; fi`        
-  `while(😴){ 💰++; }`
-
-Talking to the Moon
+#### My Dream
+- <img src="./icons/terminal.svg" style="height: 1rem"> `if [ -n 🤯 ]; then 🤯 >/dev/null; fi`        
+- <img src="./icons/node.svg" style="height: 1rem"> `while(😴){ 💰++; }`
 
 ☁️&nbsp;☁️&nbsp;☁️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌖 &nbsp;&nbsp;☁️<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☁️&nbsp;&nbsp;&nbsp; ☁️ &nbsp;&nbsp;&nbsp; 🚀 &nbsp; &nbsp;&nbsp;&nbsp;☁️ <br/>
