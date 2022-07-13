@@ -7,8 +7,8 @@
 
 #### Find Me
 
-- <img src="./icons/article.svg" style="height: 1rem"> [Blog](https://www.qbenben.com/)
 - <img src="./icons/twitter.svg" style="height: 1rem"> [Twitter](https://twitter.com/zhengqbbb)
+- <img src="./icons/article.svg" style="height: 1rem"> [Blog](https://www.qbenben.com/)
 - <img src="./icons/instagram.svg" style="height: 1rem"> [Instagram](https://www.instagram.com/qbqiubin/)
 - <img src="./icons/discord.svg" style="height: 1rem"> [Discord](https://discord.com/users/902369403818094593)
 - <img src="./icons/npm.svg" style="height: 1rem"> [NPM](https://www.npmjs.com/~zhengqbbb)
