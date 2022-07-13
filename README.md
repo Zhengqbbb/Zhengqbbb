@@ -3,9 +3,9 @@
 ### 👋 Hi there, I'm Q.Ben. <sup>(or QB)</sup>
 
 - Development Engineer
-- Team member of <b>X-Cmd</b>
+- Team Member Of <b>X-CMD</b>
 
-#### Find me
+#### Find Me
 
 - <img src="./icons/twitter.svg" style="height: 1rem"> [Twitter](https://twitter.com/zhengqbbb)
 - <img src="./icons/instagram.svg" style="height: 1rem"> [Instagram](https://www.instagram.com/qbqiubin/)
