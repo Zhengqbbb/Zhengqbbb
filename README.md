@@ -3,15 +3,15 @@
 ### 👋 Hi there, I'm Q.Ben. <sup>(or QB)</sup>
 
 - Development Engineer
-- Team Member Of <b>X-CMD</b>
+- Team Member of <b>X-CMD</b>
 
 #### Find Me
 
+- <img src="./icons/article.svg" style="height: 1rem"> [Blog](https://www.qbenben.com/)
 - <img src="./icons/twitter.svg" style="height: 1rem"> [Twitter](https://twitter.com/zhengqbbb)
 - <img src="./icons/instagram.svg" style="height: 1rem"> [Instagram](https://www.instagram.com/qbqiubin/)
 - <img src="./icons/discord.svg" style="height: 1rem"> [Discord](https://discord.com/users/902369403818094593)
 - <img src="./icons/npm.svg" style="height: 1rem"> [NPM](https://www.npmjs.com/~zhengqbbb)
-- <img src="./icons/article.svg" style="height: 1rem"> [Blog](https://www.qbenben.com/)
 - <img src="./icons/email.svg" style="height: 1rem"> [Email](mailto:zhengqbbb@gamil.com)
 
 #### My Dream
@@ -39,6 +39,12 @@
     <td><a href="https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli">czg</a></td>
     <td>
       Interactive <b>Commitizen CLI</b> that generate standardized commit messages
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Zhengqbbb/qb">qb</a></td>
+    <td>
+      Terminal CLI that can watch your BSC coins price in the terminal. And manage your BSC coins list.
     </td>
   </tr>
   <tr>
