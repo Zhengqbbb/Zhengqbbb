@@ -59,8 +59,8 @@
 
 <table #contributor>
   <thead>
-    <th width=50%>Name</th>
-    <th width=50%>Description</th>
+    <th>Name</th>
+    <th>Description</th>
   </thead>
   <tr>
     <td><a href="https://github.com/Renovamen/vuepress-theme-gungnir">vuepress-theme-gungnir</a></td>
