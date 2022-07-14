@@ -60,6 +60,12 @@
       A Vuepress v2 plugin to enhance vuepress page search SEO For the China <b>search console</b>
     </td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Zhengqbbb/vitesse-qb-vscode-theme">vitesse-qb-vscode-theme</a></td>
+    <td>
+      Color schemes change of fork Vitesse VSCode theme
+    </td>
+  </tr>
 </table>
 
 #### As Contributors For Open Source Repo
