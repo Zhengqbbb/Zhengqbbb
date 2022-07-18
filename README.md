@@ -43,7 +43,7 @@
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Zhengqbbb/qb">qb</a></td>
+    <td><a href="https://github.com/Zhengqbbb/qb-coin">qb-coin</a></td>
     <td>
       Terminal CLI that can watch your BSC coins price in the terminal. And manage your BSC coins list.
     </td>
