@@ -4,6 +4,7 @@
 
 - Development Engineer
 - Team Member of <b>X-CMD</b>
+- <sup>(WIP)</sup>About Me: [qbb.sh](http://qbb.sh/)
 
 #### Find Me
 
