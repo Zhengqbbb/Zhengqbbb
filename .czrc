@@ -3,5 +3,11 @@
     "i": "chore: initial commit",
     "icon": "chore: update icons",
     ":": "docs: update public profile"
-  }
+  },
+  "skipQuestions": [
+    "body",
+    "breaking",
+    "footerPrefix",
+    "footer"
+  ]
 }
