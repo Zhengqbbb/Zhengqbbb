@@ -34,37 +34,37 @@
   <tr>
     <td><a href="https://github.com/Zhengqbbb/cz-git/tree/main/packages/cz-git">cz-git</a></td>
     <td>
-      A more engineered, lightweight, customizable, standard output format <b>Commitizen Adapter</b>
+      🔩 A more engineered, lightweight, customizable, standard output format <b>Commitizen Adapter</b>
     </td>
   </tr>
   <tr>
     <td><a href="https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli">czg</a></td>
     <td>
-      Interactive <b>Commitizen CLI</b> that generate standardized commit messages
+      📤 Interactive <b>CLI</b> that generate standardized commit messages
     </td>
   </tr>
   <tr>
     <td><a href="https://github.com/Zhengqbbb/qb-coin">qb-coin</a></td>
     <td>
-      Terminal CLI that can watch your BSC coins price in the terminal. And manage your BSC coins list.
+      🪙 Terminal CLI that can watch your BSC coins price in the terminal. And manage your BSC coins list.
     </td>
   </tr>
   <tr>
     <td><a href="https://github.com/Zhengqbbb/qb/tree/main/vuepress/plugin-clipboard">vuepress-plugin-clipboard</a></td>
     <td>
-      A Vuepress v2 plugin to generate <b>code copy button</b> | code clipboard
+      🔘 A Vuepress v2 plugin to generate <b>code copy button</b> | code clipboard
     </td>
   </tr>
   <tr>
     <td><a href="https://github.com/Zhengqbbb/qb/tree/main/vuepress/plugin-china-search-console">vuepress-plugin-china-search-console</a></td>
     <td>
-      A Vuepress v2 plugin to enhance vuepress page search SEO For the China <b>search console</b>
+      🌐 A Vuepress v2 plugin to enhance vuepress page search SEO For the China <b>search console</b>
     </td>
   </tr>
   <tr>
     <td><a href="https://github.com/Zhengqbbb/vitesse-qb-vscode-theme">vitesse-qb-vscode-theme</a></td>
     <td>
-      Color schemes change of fork Vitesse VSCode theme
+      🏕 Color schemes change of fork Vitesse VSCode theme
     </td>
   </tr>
 </table>
@@ -79,7 +79,7 @@
   <tr>
     <td><a href="https://github.com/Renovamen/vuepress-theme-gungnir">vuepress-theme-gungnir</a></td>
     <td>
-      A blog theme for VuePress 2.0
+      🐱 A blog theme for VuePress 2.0
     </td>
   </tr>
 </table>
