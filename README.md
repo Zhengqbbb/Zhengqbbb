@@ -50,13 +50,13 @@
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Zhengqbbb/vuepress-plugin/tree/main/vuepress/plugin-clipboard">vuepress-plugin-clipboard</a></td>
+    <td><a href="https://github.com/Zhengqbbb/vuepress-plugin/tree/main/packages/plugin-clipboard">vuepress-plugin-clipboard</a></td>
     <td>
       🔘 A Vuepress v2 plugin to generate <b>code copy button</b> | code clipboard
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Zhengqbbb/vuepress-plugin/tree/main/vuepress/plugin-china-search-console">vuepress-plugin-china-search-console</a></td>
+    <td><a href="https://github.com/Zhengqbbb/vuepress-plugin/tree/main/packages/plugin-china-search-console">vuepress-plugin-china-search-console</a></td>
     <td>
       🌐 A Vuepress v2 plugin to enhance vuepress page search SEO For the China <b>search console</b>
     </td>
