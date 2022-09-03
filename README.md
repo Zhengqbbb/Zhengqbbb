@@ -8,17 +8,18 @@
 
 #### Find Me
 
-- <img src="./icons/twitter.svg" style="height: 1rem"> [Twitter](https://twitter.com/zhengqbbb)
-- <img src="./icons/instagram.svg" style="height: 1rem"> [Instagram](https://www.instagram.com/qbqiubin/)
-- <img src="./icons/article.svg" style="height: 1rem"> [Blog](https://blog.qbb.sh/)
-- <img src="./icons/discord.svg" style="height: 1rem"> [Discord](https://discord.com/users/902369403818094593)
-- <img src="./icons/npm.svg" style="height: 1rem"> [NPM](https://www.npmjs.com/~qbb.sh)
-- <img src="./icons/email.svg" style="height: 1rem"> [Email](mailto:zhengqbbb@gmail.com)
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb/icons/twitter.svg" style="height: 1rem"> [Twitter](https://twitter.com/zhengqbbb)
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb/icons/instagram.svg" style="height: 1rem"> [Instagram](https://www.instagram.com/qbqiubin/)
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb/icons/article.svg" style="height: 1rem"> [Blog](https://blog.qbb.sh/)
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb/icons/discord.svg" style="height: 1rem"> [Discord](https://discord.com/users/902369403818094593)
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb/icons/npm.svg" style="height: 1rem"> [NPM](https://www.npmjs.com/~qbb.sh)
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb/icons/email.svg" style="height: 1rem"> [Email](mailto:zhengqbbb@gmail.com)
 
 
 #### My Dream
-- <img src="./icons/terminal.svg" style="height: 1rem"> `if [ -n 🤯 ]; then 🤯 >/dev/null; fi`        
-- <img src="./icons/node.svg" style="height: 1rem"> `while(😴){ 💰++; }`
+
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb/icons/terminal.svg" style="height: 1rem"> `if [ -n 🤯 ]; then 🤯 >/dev/null; fi`        
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb/icons/node.svg" style="height: 1rem"> `while(😴){ 💰++; }`
 
 #### Projects
 
