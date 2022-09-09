@@ -2,7 +2,7 @@
 
 ### 👋 Hi there, I'm Q.Ben. <sup>(or QB)</sup>
 
-- A Programmer who like coding "* script"
+- "*Script" Engineer
 - Team Member of <b>X-CMD</b>
 - <sup>(WIP)</sup>About Me: [qbb.sh](http://qbb.sh/)
 
