@@ -4,7 +4,7 @@
 
 - ***Script Engineer
 - Team Member of <b>X-CMD</b>
-- <img src="./icons/logo.svg" style="height: 1rem">  [qbb.sh](http://qbb.sh/) <sup>(WIP)</sup>
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb/icons/logo.svg" style="height: 1rem">  [qbb.sh](http://qbb.sh/) <sup>(WIP)</sup>
 
 #### Find Me
 
