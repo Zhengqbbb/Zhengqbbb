@@ -4,7 +4,7 @@
 
 - ***Script Engineer
 - Team Member of <b>X-CMD</b>
-- <sup>(WIP)</sup>About Me: [qbb.sh](http://qbb.sh/)
+- <img src="./icons/logo.svg" style="height: 1rem">  [qbb.sh](http://qbb.sh/) <sup>(WIP)</sup>
 
 #### Find Me
 
