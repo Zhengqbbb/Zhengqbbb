@@ -4,7 +4,7 @@
 
 - ***Script Engineer
 - Team member of <b>X</b>
-- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb/icons/logo.svg?v=1" style="height: 1rem">  [qbb.sh](http://qbb.sh/) <sup>(WIP)</sup>
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb/icons/logo-gray.svg" style="height: 1rem">  [qbb.sh](http://qbb.sh/) <sup>(WIP)</sup>
 
 #### Find Me
 
