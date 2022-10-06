@@ -6,7 +6,7 @@
 - Team member of <b>X</b>
 - <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb/icons/logo-gray.svg" style="height: 1rem">  [qbb.sh](http://qbb.sh/) <sup>(WIP)</sup>
 
-#### Find Me
+#### ☎️ Find Me
 
 - <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb/icons/twitter.svg" style="height: 1rem"> [Twitter](https://twitter.com/zhengqbbb)
 - <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb/icons/instagram.svg" style="height: 1rem"> [Instagram](https://www.instagram.com/qbqiubin/)
@@ -16,12 +16,12 @@
 - <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb/icons/email.svg" style="height: 1rem"> [Email](mailto:zhengqbbb@gmail.com)
 
 
-#### My Dream
+#### 💭 My Dream
 
 - <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb/icons/terminal.svg" style="height: 1rem"> `if [ -n 🤯 ]; then 🤯 >/dev/null; fi`        
 - <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb/icons/node.svg" style="height: 1rem"> `while(😴){ 💰++; }`
 
-#### Projects
+#### 📦️ Projects
 
 <details>
 
