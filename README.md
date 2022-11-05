@@ -2,7 +2,7 @@
 
 ### 👋 Hi there, I'm Q.Ben. <sup>(or QB)</sup>
 
-- ***Script Engineer
+- ***Script Developer
 - Team member of <b>X</b>
 - <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb/icons/logo-gray.svg" style="height: 1rem">  [qbb.sh](http://qbb.sh/) <sup>(WIP)</sup>
 
