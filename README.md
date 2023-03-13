@@ -15,7 +15,6 @@
 - <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb/icons/npm.svg" style="height: 1rem"> [NPM](https://www.npmjs.com/~qbb.sh)
 - <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb/icons/email.svg" style="height: 1rem"> [Email](mailto:zhengqbbb@gmail.com)
 
-
 #### 💭 My Dream
 
 - <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb/icons/terminal.svg" style="height: 1rem"> `if [ -n 🤯 ]; then 🤯 >/dev/null; fi`        
