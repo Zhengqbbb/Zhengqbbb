@@ -4,21 +4,21 @@
 
 - ***Script Developer
 - Team member of <b>X</b>
-- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb/icons/logo-gray.svg" style="height: 1rem">  [qbb.sh](http://qbb.sh/)
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.0.0/icons/logo-gray.svg" style="height: 1rem">  [qbb.sh](http://qbb.sh/)
 
 #### ☎️ Find Me
 
-- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb/icons/twitter.svg" style="height: 1rem"> [Twitter](https://twitter.com/zhengqbbb)
-- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb/icons/instagram.svg" style="height: 1rem"> [Instagram](https://www.instagram.com/qbqiubin/)
-- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb/icons/article.svg" style="height: 1rem"> [Blog](https://www.qbb.sh/posts)
-- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb/icons/discord.svg" style="height: 1rem"> [Discord](https://discord.com/users/902369403818094593)
-- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb/icons/npm.svg" style="height: 1rem"> [NPM](https://www.npmjs.com/~qbb.sh)
-- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb/icons/email.svg" style="height: 1rem"> [Email](mailto:zhengqbbb@gmail.com)
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.0.0/icons/twitter.svg" style="height: 1rem"> [Twitter](https://twitter.com/zhengqbbb)
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.0.0/icons/instagram.svg" style="height: 1rem"> [Instagram](https://www.instagram.com/qbqiubin/)
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.0.0/icons/article.svg" style="height: 1rem"> [Blog](https://www.qbb.sh/posts)
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.0.0/icons/discord.svg" style="height: 1rem"> [Discord](https://discord.com/users/902369403818094593)
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.0.0/icons/npm.svg" style="height: 1rem"> [NPM](https://www.npmjs.com/~qbb.sh)
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.0.0/icons/email.svg" style="height: 1rem"> [Email](mailto:zhengqbbb@gmail.com)
 
 #### 💭 My Dream
 
-- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb/icons/terminal.svg" style="height: 1rem"> `if [ -n 🤯 ]; then 🤯 >/dev/null; fi`        
-- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb/icons/node.svg" style="height: 1rem"> `while(😴){ 💰++; }` &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb/icons/sponsor.svg" style="height: 1rem"> [PayPal](https://www.paypal.com/paypalme/qbbsh) | [爱发电](https://afdian.net/a/qbbsh)
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.0.0/icons/terminal.svg" style="height: 1rem"> `if [ -n 🤯 ]; then 🤯 >/dev/null; fi`        
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.0.0/icons/node.svg" style="height: 1rem"> `while(😴){ 💰++; }` &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.0.0/icons/sponsor.svg" style="height: 1rem"> [PayPal](https://www.paypal.com/paypalme/qbbsh) | [爱发电](https://afdian.net/a/qbbsh)
 
 #### 📦️ Projects
 
