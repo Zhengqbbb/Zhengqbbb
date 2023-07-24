@@ -3,7 +3,7 @@
 ### 👋 Hi there, I'm Q.Ben. <sup>(or QB)</sup>
 
 - ***Script Developer
-- Team member of <b>X</b>
+- Team member of <b>X-CMD</b>
 - <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.0.0/icons/logo-gray.svg" style="height: 1rem">  [qbb.sh](http://qbb.sh/)
 
 #### ☎️ Find Me
