@@ -18,7 +18,7 @@
 #### 💭 My Dream
 
 - <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.0.0/icons/terminal.svg" style="height: 1rem"> `if [ -n 🤯 ]; then 🤯 >/dev/null; fi`        
-- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.0.0/icons/node.svg" style="height: 1rem"> `while(😴){ 💰++; }` &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.0.0/icons/sponsor.svg" style="height: 1rem"> [PayPal](https://www.paypal.com/paypalme/qbbsh) | [爱发电](https://afdian.net/a/qbbsh)
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.0.0/icons/node.svg" style="height: 1rem"> `while(😴){ 💰++; }` &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.0.0/icons/sponsor.svg" style="height: 1rem"> [Sponsor](https://github.com/sponsors/Zhengqbbb) | [爱发电](https://afdian.net/a/qbbsh)
 
 #### 📦️ Projects
 
