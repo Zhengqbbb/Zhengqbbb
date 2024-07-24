@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+    <g id="base" transform="translate(0 16)">
+        <clipPath id="bg">
+            <path d="M0 17A17 17 0 0 1 17 0h94a17 17 0 0 1 17 17v62a17 17 0 0 1-17 17H17A17 17 0 0 1 0 79V17Z"/>
+        </clipPath>
+        <foreignObject width="128" height="96" clip-path="url(#bg)">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="height:100%;background:conic-gradient(#3245ff,#bc52ee 103deg,#4af2c8 150deg,#4af2c8 200deg,#3245ff)"/>
+        </foreignObject>
+        <path fill="url(#face)" d="M5 18.6C5 11.1 11.1 5 18.7 5h90.6c7.6 0 13.7 6.1 13.7 13.6v58.8c0 7.5-6.1 13.6-13.7 13.6H18.7C11.1 91 5 84.9 5 77.4V18.6Z"/>
+        <defs>
+            <radialGradient id="face" cx="0" cy="0" r="1" gradientTransform="matrix(0 70 -96 0 64 37.3)" gradientUnits="userSpaceOnUse">
+                <stop offset=".33" stop-color="#191C24"/>
+                <stop offset=".67" stop-color="#111218"/>
+                <stop offset="1" stop-color="#040506"/>
+            </radialGradient>
+        </defs>
+    </g>
+    <path d="M53.64 65.766c0-1.174.952-2.125 2.126-2.125h16.468c1.174 0 2.125.951 2.125 2.125v16.468a2.125 2.125 0 0 1-2.125 2.125H55.766a2.125 2.125 0 0 1-2.125-2.125V65.766Z" fill="#fff"/>
+    <path d="M19.2 75.733c0-5.89 4.776-10.666 10.667-10.666 5.89 0 10.666 4.775 10.666 10.666v32H19.2v-32Z" fill="url(#tears)"/>
+    <path d="M87.467 75.733c0-5.89 4.775-10.666 10.666-10.666 5.891 0 10.667 4.775 10.667 10.666v32H87.467v-32Z" fill="url(#tears)"/>
+    <path d="M29.867 69.333a6.4 6.4 0 0 1 6.4 6.4h4.266c0-5.89-4.775-10.666-10.666-10.666-5.891 0-10.667 4.775-10.667 10.666h4.267a6.4 6.4 0 0 1 6.4-6.4ZM98.133 69.333a6.4 6.4 0 0 1 6.4 6.4h4.267c0-5.89-4.776-10.666-10.667-10.666-5.89 0-10.666 4.775-10.666 10.666h4.266a6.4 6.4 0 0 1 6.4-6.4Z" fill="#fff"/>
+    <defs>
+        <linearGradient id="tears" x1="30" y1="64" x2="30" y2="108" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#3A82F6"/>
+            <stop offset="1" stop-color="#4AF2C8"/>
+        </linearGradient>
+    </defs>
+</svg>
