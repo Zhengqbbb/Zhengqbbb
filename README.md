@@ -4,22 +4,22 @@
 
 - ***Script Developer
 - Team member of <b>X-CMD</b>
-- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.4/icons/logo-gray.svg" style="height: 1rem">  [qbb.sh](http://qbb.sh/)
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.5/icons/logo-gray.svg" style="height: 1rem">  [qbb.sh](http://qbb.sh/)
 
 #### ☎️ Find Me
 
-- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.4/icons/x.svg" style="height: 1rem"> [Twitter](https://twitter.com/zhengqbbb)
-- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.4/icons/instagram.svg" style="height: 1rem"> [Instagram](https://www.instagram.com/qbqiubin/)
-- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.4/icons/linkedin.svg" style="height: 1rem"> [LinkedIn](https://www.linkedin.com/in/qbbsh/)
-- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.4/icons/article.svg" style="height: 1rem"> [Blog](https://www.qbb.sh/posts)
-- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.4/icons/discord.svg" style="height: 1rem"> [Discord](https://discord.com/users/902369403818094593)
-- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.4/icons/npm.svg" style="height: 1rem"> [NPM](https://www.npmjs.com/~qbb.sh)
-- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.4/icons/email.svg" style="height: 1rem"> [Email](mailto:zhengqbbb@gmail.com)
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.5/icons/x.svg" style="height: 1rem"> [Twitter](https://twitter.com/zhengqbbb)
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.5/icons/instagram.svg" style="height: 1rem"> [Instagram](https://www.instagram.com/qbqiubin/)
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.5/icons/linkedin.svg" style="height: 1rem"> [LinkedIn](https://www.linkedin.com/in/qbbsh/)
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.5/icons/article.svg" style="height: 1rem"> [Blog](https://www.qbb.sh/posts)
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.5/icons/discord.svg" style="height: 1rem"> [Discord](https://discord.com/users/902369403818094593)
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.5/icons/npm.svg" style="height: 1rem"> [NPM](https://www.npmjs.com/~qbb.sh)
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.5/icons/email.svg" style="height: 1rem"> [Email](mailto:zhengqbbb@gmail.com)
 
 #### 💭 My Dream
 
-- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.4/icons/terminal.svg" style="height: 1rem"> `if [ -n 🤯 ]; then 🤯 >/dev/null; fi`        
-- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.4/icons/node.svg" style="height: 1rem"> `while(😴){ 💰++; }` &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.4/icons/sponsor.svg" style="height: 1rem"> [Sponsor](https://github.com/sponsors/Zhengqbbb) | [爱发电](https://afdian.net/a/qbbsh)
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.5/icons/terminal.svg" style="height: 1rem"> `if [ -n 🤯 ]; then 🤯 >/dev/null; fi`        
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.5/icons/node.svg" style="height: 1rem"> `while(😴){ 💰++; }` &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.5/icons/sponsor.svg" style="height: 1rem"> [Sponsor](https://github.com/sponsors/Zhengqbbb) | [爱发电](https://afdian.net/a/qbbsh)
 
 #### 📦️ Projects
 
