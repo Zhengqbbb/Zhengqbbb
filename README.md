@@ -10,7 +10,6 @@
 
 - <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.5/icons/x.svg" style="height: 1rem"> [Twitter](https://twitter.com/zhengqbbb)
 - <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.5/icons/instagram.svg" style="height: 1rem"> [Instagram](https://www.instagram.com/qbqiubin/)
-- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.5/icons/linkedin.svg" style="height: 1rem"> [LinkedIn](https://www.linkedin.com/in/qbbsh/)
 - <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.5/icons/article.svg" style="height: 1rem"> [Blog](https://www.qbb.sh/posts)
 - <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.5/icons/discord.svg" style="height: 1rem"> [Discord](https://discord.com/users/902369403818094593)
 - <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.5/icons/npm.svg" style="height: 1rem"> [NPM](https://www.npmjs.com/~qbb.sh)
