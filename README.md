@@ -13,7 +13,7 @@
 - <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.5/icons/article.svg" style="height: 1rem"> [Blog](https://www.qbb.sh/posts)
 - <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.5/icons/discord.svg" style="height: 1rem"> [Discord](https://discord.com/users/902369403818094593)
 - <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.5/icons/npm.svg" style="height: 1rem"> [NPM](https://www.npmjs.com/~qbb.sh)
-- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.5/icons/email.svg" style="height: 1rem"> [Email](mailto:zhengqbbb@gmail.com)
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.5/icons/email.svg" style="height: 1rem"> [Email](mailto:hi@qbb.sh)
 
 #### 💭 My Dream
 
