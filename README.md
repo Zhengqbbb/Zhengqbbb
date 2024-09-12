@@ -1,18 +1,10 @@
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3>👋 Hi there, I'm Q.Ben. <sup>(or QB)</sup></h3>
-      <ul>
-        <li>***Script Developer</li>
-        <li>Team member of <b>X-CMD</b></li>
-        <li><img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.5/icons/logo-gray.svg" style="height: 1rem">  <a href="http://qbb.sh/">qbb.sh</a></li>
-      </ul>
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=zhengqbbb&show_icons=true&theme=github_dark&count_private=true&hide_border=true" height="170">
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhengqbbb&show_icons=true&theme=github_dark&count_private=true&hide_border=true" height="170">
+
+### 👋 Hi there, I'm Q.Ben. <sup>(or QB)</sup>
+
+- ***Script Developer
+- Team member of <b>X-CMD</b>
+- <img src="https://cdn.jsdelivr.net/gh/Zhengqbbb/Zhengqbbb@v1.1.5/icons/logo-gray.svg" style="height: 1rem">  [qbb.sh](http://qbb.sh/)
 
 #### ☎️ Find Me
 
